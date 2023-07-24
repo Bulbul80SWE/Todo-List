@@ -1,4 +1,4 @@
-
+//log in/out 
 
 const loginButton = document.querySelector('.submit-button');
 
